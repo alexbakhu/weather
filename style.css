@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(37, 36, 36);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .top{
+    display: flex;
+    align-items: center;
+
+  }
+  .top input{
+    width: 70%;
+    border: 0;
+  }
+
+  .fa-magnifying-glass {
+    color: black;
+    border: solid 10px whitesmoke;
+    border-radius: 99%;
+    background-color: rgb(255, 255, 255);
+}
+  
+
+.rain{
+    margin: auto;
+    display: block;
+
+}
+  .div1 {
+   
+    background: linear-gradient(#90eeba, #64bad6, #9d7ebd);
+    padding: 20px;
+    width: 400px;
+   border-radius: 10px;
+
+}
+  
+  .fa-sharp {
+    color: rgb(211, 211, 211);
+
+}
+  
+  input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 32px;
+  }
+  .div2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+  
+
+.div2 div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.fa-water{
+    font-size: 30px;
+    color: white;
+}
+.fa-wind{
+    font-size: 30px;
+    color: white;
+
+}
+.p1{
+color: white;
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
